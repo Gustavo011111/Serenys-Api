@@ -1,6 +1,6 @@
 # [Serenys API](https://serenys.xyz/)
 
-## Então, esse código é um vazamento da API [Serenys](https://serenys.xyz/). Ela é um projeto criado inicialmente com o foco na criação de APIs para usuários do Discord.
-## Para você saber mais sobre o projeto original, entre em https://discord.gg/discloud, onde eles disponibilizam essa API já hospedada e com diferentes rotas e funções.
+## So this code is a leak of the [Serenys](https://serenys.xyz/) API. It is a project initially created with a focus on creating APIs for Discord users.
+## For you to know more about the original project, go to https://discord.gg/discloud, where they provide this API already hosted and with different routes and functions.
 
 ## by: fakie0
